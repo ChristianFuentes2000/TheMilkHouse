@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@900&family=Philosopher&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@900&family=Carter+One&family=Philosopher&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&family=Tenor+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=IM+Fell+Great+Primer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=IM+Fell+Great+Primer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
+
+.my-column {
+  background-color: pink;
+  border: 2px solid black;
+}
+
+.description {
+  font-family: 'Archivo', sans-serif;
+  color:#51594C;
+  font-size: 35px;
+}
+
+.text-justify {
+font-family: 'Philosopher', sans-serif;
+color: #0D0D0D;
+}
+
+.nav-item {
+font-family: 'Philosopher', sans-serif;
+color: #51594C;
+font-weight: bolder;
+font-size:25px;
+}
+
+.welcome-text{
+  background-color:#E1F2A2;
+  color: #374C8C;
+  font-size: bolder;
+
+}
+
+h5{
+  font-family: 'Amiri', serif;
+}
+
+.our-words {
+  font-family: 'Tenor Sans', sans-serif;
+  color:#734432;
+  font-weight:bolder;
+}
+
+.rectangle{
+font-family: 'IM Fell Great Primer', serif;
+font-weight: bolder;
+background-color: #CBCE91FF;
+}
+
+.jail{
+  color:#CBCE91FF;
+}
+
+section {
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.buy{
+  text-transform: uppercase;
+  font-weight: 900;
+  color:#F2D9BB;
+  text-align:left;
+  margin-bottom:20px;
+  text-shadow: 2px 2px black;
+}
+
+.stop-by{
+  font-size: 20px;
+  font-weight: bolder;
+  color: #101820FF;
+  font-family: 'Arbutus Slab', serif;
+}
+
+button{
+  max-width: 50%;
+  border-radius: 50px;
+  color: #E0D49A;
+  font-family: 'Titan One', cursive;
+  font-weight: lighter;
+}
+
+.opening{
+  font-size: 20px;
+}
+
+#milk .col{
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+}
+
+#milk .img-col{
+  justify-content: flex-end;
+  margin-top: 100px;
+}
+
+#milk .img{
+  max-width: 130%;
+  width: 130%;
+}
+
+
+.card{
+  color:#73482F;
+  background-color: #F6F5D6;
+  font-weight: bold;
+  font-family: 'Titan One', cursive;
+}
+
+.card-1{
+  color:#CAB57C;
+  background-color: #3F372C;
+  font-family: 'Titan One', cursive;
+}
+
+.combi{
+font-family: 'Rock Salt', cursive;
+font-size: 25px;
+
+}
+
+.best{
+  font-family: 'Rammetto One', cursive;
+  font-size: 25px;
+}
